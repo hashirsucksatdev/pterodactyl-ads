@@ -5,7 +5,7 @@ const Banner160x600 : React.FC = () => {
     useEffect(() => {
         const scriptContent = `
         atoptions = {
-           'key': 'b21febb7227e21a87582fe279e520507',
+           'key': '',
            'format': 'iframe',
            'height' : 600,
            'width': 160,
@@ -19,7 +19,7 @@ const Banner160x600 : React.FC = () => {
 
       const scriptSrc = document.createElement('script')
       scriptSrc.type = "text/javascript"
-      scriptSrc.src = '//www.topcreativeformat.com/b21febb7227e21a87582fe279e520507/invoke.js'
+      scriptSrc.src = '//www.topcreativeformat.com/your_key/invoke.js'
       document.body.appendChild(scriptSrc)
 
 
