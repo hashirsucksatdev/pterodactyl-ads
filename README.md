@@ -10,7 +10,7 @@ This an code in react this uses adsterra to run ads on pterodactyl panel. Pterod
 6. Click on get code and copy it
 
 Same as this
-[!plain](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWxi64CByLfYk02QYJvKZ5ZYRiJ8czPfy4T5044qA6WJ0-gHN72z5NGktujGwNq-H1TWRbX7BZVwU1gWS_RNul2mIZRlm6etMu4KYoatNSqGovBxJYGJyrmywABxoj91g56DRBXqQal0ts2gt6LdYMMV3HClICkq4lwt9kzLzjbpPuAx8y3O-DHnneKoe/s1286/Screenshot_20240801-142815_YouTube.png)
+![plain](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWxi64CByLfYk02QYJvKZ5ZYRiJ8czPfy4T5044qA6WJ0-gHN72z5NGktujGwNq-H1TWRbX7BZVwU1gWS_RNul2mIZRlm6etMu4KYoatNSqGovBxJYGJyrmywABxoj91g56DRBXqQal0ts2gt6LdYMMV3HClICkq4lwt9kzLzjbpPuAx8y3O-DHnneKoe/s1286/Screenshot_20240801-142815_YouTube.png)
 
 *In this pic Social bar is selected but you need to select Banner160x600*
 
