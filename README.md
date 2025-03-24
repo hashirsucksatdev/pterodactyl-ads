@@ -1,5 +1,5 @@
 # Overview
-This an code in react this uses adsterra to run ads on pterodactyl panel. Pterodactyl has no official way to ad ads
+This an code in react this uses adsterra to run ads on pterodactyl panel. Pterodactyl has no official way to run ads 
 
 # How to use
 1. Go to [Adsterra](https://beta.publishers.adsterra.com/)
@@ -34,5 +34,5 @@ scriptSrc.src = '//www.withyours.test'
 
 And then replace your dashboard,servers,admins and other .tsx files with ours
 
-And then go to [this website](https://pterodactyl.io/community/customization/panel.html) and run all the commands to run ads
+And then go to [this website](https://pterodactyl.io/community/customization/panel.html) and re-built the panel using the commands (this wont cause dataloss)
 
